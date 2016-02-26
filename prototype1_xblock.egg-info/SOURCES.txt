@@ -1,0 +1,12 @@
+prototype1/__init__.py
+prototype1/prototype1.py
+prototype1/static/README.txt
+prototype1/static/css/prototype1.css
+prototype1/static/html/prototype1.html
+prototype1/static/js/src/prototype1.js
+prototype1_xblock.egg-info/PKG-INFO
+prototype1_xblock.egg-info/SOURCES.txt
+prototype1_xblock.egg-info/dependency_links.txt
+prototype1_xblock.egg-info/entry_points.txt
+prototype1_xblock.egg-info/requires.txt
+prototype1_xblock.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+/* CSS for ProtoType1XBlock */
+
+.prototype1_block .count {
+    font-weight: bold;
+}
+
+.prototype1_block p {
+    cursor: pointer;
+}
